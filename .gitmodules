@@ -1,0 +1,6 @@
+[submodule "playground/VideoPose3D"]
+	path = playground/VideoPose3D
+	url = https://github.com/facebookresearch/VideoPose3D.git
+[submodule "playground/tf-pose-estimation"]
+	path = playground/tf-pose-estimation
+	url = https://github.com/ildoonet/tf-pose-estimation.git
